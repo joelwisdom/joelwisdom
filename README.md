@@ -10,5 +10,5 @@
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/joel-wisdom-107666188/)
 - [Portfolio](https://joelwisdom.github.io)
-- [Email](joelwisdom64@gmail.com)
+- [Email](mailto:joelwisdom64@gmail.com)
 
